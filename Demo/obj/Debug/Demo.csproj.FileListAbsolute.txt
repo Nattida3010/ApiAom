@@ -1,0 +1,128 @@
+D:\Api\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\Api\Demo\Demo\bin\Demo.dll.config
+D:\Api\Demo\Demo\bin\Demo.dll
+D:\Api\Demo\Demo\bin\Demo.pdb
+D:\Api\Demo\Demo\bin\roslyn\csc.exe
+D:\Api\Demo\Demo\bin\roslyn\csc.exe.config
+D:\Api\Demo\Demo\bin\roslyn\csc.rsp
+D:\Api\Demo\Demo\bin\roslyn\csi.exe
+D:\Api\Demo\Demo\bin\roslyn\csi.rsp
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Api\Demo\Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Api\Demo\Demo\bin\roslyn\System.AppContext.dll
+D:\Api\Demo\Demo\bin\roslyn\System.Collections.Immutable.dll
+D:\Api\Demo\Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Api\Demo\Demo\bin\roslyn\System.IO.FileSystem.dll
+D:\Api\Demo\Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Api\Demo\Demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Api\Demo\Demo\bin\roslyn\vbc.exe
+D:\Api\Demo\Demo\bin\roslyn\vbc.exe.config
+D:\Api\Demo\Demo\bin\roslyn\vbc.rsp
+D:\Api\Demo\Demo\bin\roslyn\VBCSCompiler.exe
+D:\Api\Demo\Demo\bin\roslyn\VBCSCompiler.exe.config
+D:\Api\Demo\Demo\bin\Antlr3.Runtime.dll
+D:\Api\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Api\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+D:\Api\Demo\Demo\bin\Newtonsoft.Json.dll
+D:\Api\Demo\Demo\bin\System.Net.Http.Formatting.dll
+D:\Api\Demo\Demo\bin\System.Web.Helpers.dll
+D:\Api\Demo\Demo\bin\System.Web.Http.dll
+D:\Api\Demo\Demo\bin\System.Web.Http.WebHost.dll
+D:\Api\Demo\Demo\bin\System.Web.Mvc.dll
+D:\Api\Demo\Demo\bin\System.Web.Optimization.dll
+D:\Api\Demo\Demo\bin\System.Web.Razor.dll
+D:\Api\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+D:\Api\Demo\Demo\bin\System.Web.WebPages.dll
+D:\Api\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+D:\Api\Demo\Demo\bin\WebGrease.dll
+D:\Api\Demo\Demo\bin\Newtonsoft.Json.xml
+D:\Api\Demo\Demo\bin\System.Net.Http.Formatting.xml
+D:\Api\Demo\Demo\bin\System.Web.Helpers.xml
+D:\Api\Demo\Demo\bin\System.Web.Http.xml
+D:\Api\Demo\Demo\bin\System.Web.Http.WebHost.xml
+D:\Api\Demo\Demo\bin\System.Web.Mvc.xml
+D:\Api\Demo\Demo\bin\System.Web.Optimization.xml
+D:\Api\Demo\Demo\bin\System.Web.Razor.xml
+D:\Api\Demo\Demo\bin\System.Web.WebPages.xml
+D:\Api\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+D:\Api\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+D:\Api\Demo\Demo\bin\Antlr3.Runtime.pdb
+D:\Api\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Api\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\Api\Demo\Demo\obj\Debug\Demo.dll
+D:\Api\Demo\Demo\obj\Debug\Demo.pdb
+D:\Api\Demo\Demo\bin\System.Web.Cors.dll
+D:\Api\Demo\Demo\bin\System.Web.Http.Cors.dll
+D:\Api\Demo\Demo\bin\System.Web.Http.Cors.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Demo.dll.config
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Demo.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Demo.pdb
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\csc.exe
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\csc.exe.config
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\csc.rsp
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\csi.exe
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\csi.rsp
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\System.AppContext.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\vbc.exe
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\vbc.exe.config
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\vbc.rsp
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Antlr3.Runtime.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Newtonsoft.Json.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Net.Http.Formatting.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Cors.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Helpers.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Http.Cors.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Http.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Http.WebHost.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Mvc.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Optimization.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Razor.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.WebPages.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\WebGrease.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Http.Cors.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Newtonsoft.Json.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Net.Http.Formatting.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Helpers.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Http.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Http.WebHost.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Mvc.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Optimization.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.Razor.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.WebPages.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Antlr3.Runtime.pdb
+C:\Users\Puinun\Desktop\new api\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Puinun\Desktop\new api\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Puinun\Desktop\new api\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\Puinun\Desktop\new api\Demo\Demo\obj\Debug\Demo.dll
+C:\Users\Puinun\Desktop\new api\Demo\Demo\obj\Debug\Demo.pdb
